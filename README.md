@@ -23,7 +23,8 @@ At the end of my Codecademy Python course, I was asked to pick my own dataset an
 - Vehicle loans are similarly common among family units led by someone under 35 (35.3%) and those aged 35–44 (34.7%).
 
 ## Further Questions
-- Debt is common in both groups. What types of debt do individual households carry, and how could that inform useful financial products? Answering this would require individual-level data and further analysis.
+- Debt is common in both groups. What types of debt do individuals carry? Answering this would require individual-level data and further analysis.
+- Do these patterns hold beyond 2023? How do spending, assets, and debt compare before and after COVID-19, and what might explain any differences? Answering this would require data from multiple years and, ideally, individual-level data rather than figures grouped by household or family unit.
 
 ## Limitations
 *I'd like to mention that I came up with my objective before looking at the datasets, which created limitations that could have been avoided. Nonetheless, I kept going because it would be a good learning opportunity.*
