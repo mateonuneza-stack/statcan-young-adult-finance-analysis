@@ -16,7 +16,6 @@ At the end of my Codecademy Python course, I was asked to pick my own dataset an
 - Used pivot tables to compare spending shares, percentage holding, and median values by age group. The spending and balance-sheet age bands were kept separate.
 - Computed each age group's aggregate debt-to-asset ratio as total debt divided by total assets.
 
-
 ## Key Findings
 - Spending: Spending shares differ only slightly. Under-30 households spend slightly more of their budget on housing (26.2% vs 24.1%), transportation (12.7% vs 10.9%) and food (11.2% vs 10.6%) than households aged 30 to 39.
 - Assets: Family units led by someone under 35 have $245,200 in median total assets, compared with $645,000 for ages 35–44. These are asset values before subtracting debt.
