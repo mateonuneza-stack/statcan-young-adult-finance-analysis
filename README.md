@@ -1,7 +1,7 @@
 # statcan-young-adult-finance-analysis
 
 ## Project Objective
-At the end of my Codecademy Python course, I was asked to pick my own dataset and analyze it. I wanted to use the project to explore a question I care about. After some thought, I wanted to ask: **How do the spending and balance sheets of young adults differ across life stages, and what products may they benefit from?**
+At the end of my Codecademy Python course, I was asked to pick my own dataset and analyze it. I wanted to use the project to explore a question I care about. After some thought, I wanted to ask: **How do the spending and balance sheets of young adults differ across life stages?**
 
 ## Datasets
 *Naturally, I leaned toward Canadian data. Additionally, Statistics Canada had a large, organized site that was very easy to figure out how to use.*
@@ -17,15 +17,14 @@ At the end of my Codecademy Python course, I was asked to pick my own dataset an
 
 
 ## Key Findings
-- Spending: Compared with households led by someone aged 30–39, under-30 households spend a larger share on housing (26.2% vs. 24.1%) and transportation (12.7% vs. 10.9%). Food is slightly higher (11.2% vs. 10.6%), while insurance and pension contributions have negligible differences (6.7% vs. 7.1%).
+- Spending: Spending shares differ only slightly. Under-30 households spend slightly more of their budget on housing (26.2% vs 24.1%), transportation (12.7% vs 10.9%) and food (11.2% vs 10.6%) than households aged 30 to 39.
 - Assets: Family units led by someone under 35 have $245,200 in median total assets, compared with $645,000 for ages 35–44. These are asset values before subtracting debt.
-- Debt: Debt is common in both groups: 78.3% of under-35 family units and 84.1% of those aged 35–44 hold some debt. Student loans are more common in the younger group (26.6% vs. 14.9%).
+- Debt: Based on total values, debt relative to assets is nearly identical across the two groups. The debt-to-asset ratio is 24.1% for under-35 family units and 24.3% for ages 35 to 44. The data shows no meaningful difference here.
 - Vehicle loans are similarly common among family units led by someone under 35 (35.3%) and those aged 35–44 (34.7%).
 - Transportation takes a larger share of spending for under-30 households (12.7%) than for households aged 30–39 (10.9%). 
 
 ## Further Questions
 - Debt is common in both groups. What types of debt do individual households carry, and how could that inform useful financial products? Answering this would require individual-level data and further analysis.
-
 
 ## Limitations
 *I'd like to mention that I came up with my objective before looking at the datasets, which created limitations that could have been avoided. Nonetheless, I kept going because it would be a good learning opportunity.*
