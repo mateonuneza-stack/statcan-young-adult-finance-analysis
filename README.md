@@ -19,7 +19,7 @@ At the end of my Codecademy Python course, I was asked to pick my own dataset an
 ## Key Findings
 - Spending: Spending shares differ only slightly. Under-30 households spend slightly more of their budget on housing (26.2% vs 24.1%), transportation (12.7% vs 10.9%) and food (11.2% vs 10.6%) than households aged 30 to 39.
 - Assets: Family units led by someone under 35 have $245,200 in median total assets, compared with $645,000 for ages 35–44. These are asset values before subtracting debt.
-- Debt: Based on total values, debt relative to assets is nearly identical across the two groups. The debt-to-asset ratio is 24.1% for under-35 family units and 24.3% for ages 35 to 44. The data shows no meaningful difference here.
+- Debt: Based on total values, debt relative to assets is nearly identical across the two groups. The debt-to-asset ratio is 24.1% for under-35 family units and 24.3% for ages 35 to 44. The data shows no meaningful difference here. These figures divide aggregate total debt by aggregate total assets; they do not describe the ratio for a typical household.
 - Vehicle loans are similarly common among family units led by someone under 35 (35.3%) and those aged 35–44 (34.7%).
 - Transportation takes a larger share of spending for under-30 households (12.7%) than for households aged 30–39 (10.9%). 
 
