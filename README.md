@@ -1,7 +1,7 @@
 # statcan-young-adult-finance-analysis
 
 ## Project Objective
-At the end of my Codecademy Python course, I was asked to pick my own dataset and analyze it. I wanted to use the project to explore a question I care about. After some thought, I wanted to look into: **How do the spending and balance sheets of young adults differ across life stages, and what products may they benefit from?**
+At the end of my Codecademy Python course, I was asked to pick my own dataset and analyze it. I wanted to use the project to explore a question I care about. After some thought, I wanted to ask: **How do the spending and balance sheets of young adults differ across life stages, and what products may they benefit from?**
 
 ## Datasets
 *Naturally, I leaned toward Canadian data. Additionally, Statistics Canada had a large, organized site that was very easy to figure out how to use.*
@@ -17,9 +17,9 @@ At the end of my Codecademy Python course, I was asked to pick my own dataset an
 - Vehicle loans are similarly common among family units led by someone under 35 (35.3%) and those aged 35–44 (34.7%).
 - Transportation takes a larger share of spending for under-30 households (12.7%) than for households aged 30–39 (10.9%). 
 
-## Recommendation — product hypothesis
+## Recommendations — product hypotheses
 - **Debt-planning calculator**: Users could enter all their debts along with interest rates, see estimated payoff dates, and test how changing a monthly payment affects those dates and their other financial goals.
-- **True Vehicle Cost Planner**: Based on my own experience, people severly underestimate the full cost of a car. A planner could show loan payments, fuel, insurance, and maintenance together to help users figure out if a vehicle truly fits their budget.
+- **True Vehicle Cost Planner**: Based on my own experience, people severely underestimate the full cost of a car. A planner could show loan payments, fuel, insurance, and maintenance together to help users figure out if a vehicle truly fits their budget.
 
 
 ## Limitations
