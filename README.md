@@ -6,8 +6,8 @@ At the end of my Codecademy Python course, I was asked to pick my own dataset an
 ## Datasets
 *Naturally, I leaned toward Canadian data. Additionally, Statistics Canada had a large, organized site that was very easy to figure out how to use.*
 
-- **household_spending.csv**: Household spending by age of reference person (Statistics Canada, 2023, Canada). Average expenditure per household across summary-level categories. Youngest band: less than 30. Comparison band: 30 to 39.
-- **assets_and_debt.csv**: Assets, debts, and net worth by age group (Statistics Canada, 2023, Canada). Percent holding, median, and average values across asset and debt types. Youngest band: under 35. Comparison band: 35 to 44.
+- **household_spending_2023.csv**: Household spending by age of reference person (Statistics Canada, 2023, Canada). Average expenditure per household across summary-level categories. Youngest band: less than 30. Comparison band: 30 to 39.
+- **assets_and_debt_2023.csv**: Assets, debts, and net worth by age group (Statistics Canada, 2023, Canada). Percent holding, median, and average values across asset and debt types. Youngest band: under 35. Comparison band: 35 to 44.
 
 ## Method
 - Filtered both tables to 2023 and Canada on the Statistics Canada website before downloading them.
